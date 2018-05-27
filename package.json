@@ -1,6 +1,6 @@
 {
   "name": "@simbo/generator-editorconfig",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple yeoman generator for my usual editorconfig.",
   "author": "Simon Lepel <simbo@simbo.de> (http://simbo.de)",
   "repository": "simbo/generator-editorconfig",
