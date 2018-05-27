@@ -3,7 +3,6 @@ node_js:
   - '10'
   - '8'
   - '6'
-  - '4'
 env:
   global:
     secure: b4eaCu/eizwdDygu10Di1Eymn2kXKdKr/oCgfGfdMz+vLaAOAJQ7b4sYa/UAlivWhykWlytQS6fEIPFIV89Y061a7yACv1VB/H6hmOMG7qcHdP4N182c564YpH8iFtTzTP5XdUuvljisdeDSvdFzDDtKJUynBtFDRE05j7I9q20JNTQE9ib9MAydmv4XhjWQTmZlk4l38/yZ/HIYQ0ZtN5yUnljQrgXWr0OuenpJRLnvucmQZ1Xx5qeTgXJxIttRgR8iZWoxFdzTxmylYzgtSbb5j4SYHvwlD9xZtcxLvUIwVluSy8R4rK5EG/BimvyTtMwxK7J2iUpQf+5BgzSrMuxYaBArvL+ExL4r9X7sUBvXxuW3eYh5GgyC/F0lYM5RC3j58hwnSzuTxluk41FZoaSDmE7kbCGBobaG3oDdtts8h2zBLhP0M1wks2W2CaTHJsH+8YG9BPVmzbJMh9AiUM6zVV4U7mj+gU5ZTDAMge8w7rUtKa3k1aaj4Vx6rLtKGm5cZE7LrA9rYnJhw17PfgumDutzb8x/zsCYfDgzEecsvu0/rbsGgjqQwSOhSqTzNKAVHHbypqba5jpj2thOKwjEf9W6XVsiXwnQIvzpVDptleJSzWuPCf8J4jrMZKGsoZS5fsI+iOLvzcTRm0BfgIJfwj1Wedko73jo5uupyuI=
