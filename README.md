@@ -1,7 +1,7 @@
 generator-editorconfig
 ======================
 
-  > A simple yeoman generator for my usual editorconfig.
+  > A simple yeoman generator for my usual [`.editorconfig`](http://editorconfig.org/).
 
 [![npm package version](https://img.shields.io/npm/v/@simbo/generator-editorconfig.svg?style=flat-square)](https://www.npmjs.com/package/@simbo/generator-editorconfig)
 [![Travis CI build status](https://travis-ci.org/simbo/generator-editorconfig.svg?branch=master)](https://travis-ci.org/simbo/generator-editorconfig/builds)
