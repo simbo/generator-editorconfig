@@ -12,7 +12,7 @@ module.exports = class extends Generator {
     });
   }
 
-  initializing() {
+  writing() {
     this.fs.copy(
       this.templatePath('.editorconfig'),
       this.destinationPath(this.options.generateInto, '.editorconfig')
