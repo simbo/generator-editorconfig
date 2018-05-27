@@ -50,7 +50,7 @@ Use it like any other yeoman generator within your project root:
 yo @simbo/editorconfig
 ```
 
-See also `yo @simbo/webpack --help` for detailed usage information.
+See also `yo @simbo/editorconfig --help` for detailed usage information.
 
 
 ## Development
@@ -69,4 +69,4 @@ yarn link
 
 ## License
 
-[MIT &copy; Simon Lepel](http://simbo.mit-license.org/)
+[MIT © 2018 Simon Lepel](http://simbo.mit-license.org/)
