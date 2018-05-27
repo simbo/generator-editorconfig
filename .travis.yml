@@ -11,7 +11,8 @@ jobs:
   include:
   - stage: release
     node_js: '8'
-    script: echo "Deploying to npm..." && exit 0
+    install: "Skipping install"
+    script: "Skipping script"
     deploy:
     - provider: npm
       email: simbo@simbo.de
